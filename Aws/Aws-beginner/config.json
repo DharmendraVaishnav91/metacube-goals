@@ -1,0 +1,7 @@
+{
+    "connectionLimit": 10,
+    "host": "devops-assignment-new.ciqnrfxxtgrm.ap-south-1.rds.amazonaws.com",
+    "user": "root",
+    "password": "meditation",
+    "database": "employee"
+}

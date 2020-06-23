@@ -1,0 +1,14 @@
+{
+  "name": "ec2instancescheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ec2_startstopinstances.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "2.700.0"
+  },
+  "author": "Dharmendra Vaishnav",
+  "license": "ISC"
+}
